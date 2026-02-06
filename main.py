@@ -55,3 +55,4 @@ def run_bank_simulation():
 if __name__ == "__main__":
     run_bank_simulation()
 #NEW COMMENT
+print("Build triggered after git change")
